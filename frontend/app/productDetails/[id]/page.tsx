@@ -89,14 +89,7 @@ const DataDisplayPage = () => {
         }
         title={data.title}
         />
-        {/* {data.images.map((e)=>{
-          <CardMedia
-        component="img"
-        height="194"
-        image={`/images/${e}`}
-        alt={data.images}
-      />
-        })} */}
+       
        <CardMedia
         component="img"
         height="194"
